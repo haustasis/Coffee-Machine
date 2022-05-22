@@ -131,4 +131,5 @@ public class CoffeeMachine {
         System.out.printf("I gave you $%d", money);
         money = 0;
     }
+
 }
